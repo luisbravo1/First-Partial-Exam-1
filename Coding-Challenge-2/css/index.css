@@ -92,6 +92,10 @@ div{
         width: 30%;
     }
 
+    .side-box {
+        height: 28%;
+    }
+
     .main {
         width: 70%;
         display: flex;
